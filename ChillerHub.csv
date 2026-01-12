@@ -1,0 +1,16 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J2_GE1";"TerminalBlock_Phoenix_MPT-0,5-6-2.54_1x06_P2.54mm_Horizontal";1;"Conn_01x06";;;
+2;"J3_ESP1";"TerminalBlock_Phoenix_MPT-0,5-10-2.54_1x10_P2.54mm_Horizontal";1;"Conn_01x10";;;
+3;"J4_SHT1";"TerminalBlock_Phoenix_MPT-0,5-4-2.54_1x04_P2.54mm_Horizontal";1;"Conn_01x04";;;
+4;"J5_DS18B1";"TerminalBlock_Phoenix_MPT-0,5-3-2.54_1x03_P2.54mm_Horizontal";1;"Conn_01x03";;;
+5;"C1,C2";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";2;"C";;;
+6;"U1";"SOT-23-5";1;"AP2112K-3.3";;;
+7;"U2_LM1,U1_LM1";"TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal";2;"Conn_01x02";;;
+8;"R9";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";1;"4.7k";;;
+9;"R1,R2";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";2;"100";;;
+10;"Q1_RUN1,Q2_DIR1";"SOT-23";2;"2N7002";;;
+11;"R6";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";1;"1K";;;
+12;"R7,R3";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";2;"10K";;;
+13;"R8";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";1;"20K";;;
+14;"J1_24VDC1";"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal";1;"Conn_01x02";;;
+15;"R4,R5";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";2;"100K";;;
